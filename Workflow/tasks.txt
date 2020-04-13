@@ -1,0 +1,16 @@
+Tasks:
+```````
+1. What does the dataset look like? ----> Joel
+Create a Kaggle kernel that lets you work with a subset of the data. <---- Input
+
+2. How to implement Xception in Keras? (~ 40 lines of code) -----> (Shashank, Manisha) <---- Network
+
+3. Test the network <----- (Shashank, Manisha) ---- (Might be nuanced)
+
+3. TPUs ----> (Srashti, Pinak) ---- (Hard)
+
+
+Possible meeting times:
+```````````````````````
+1. Saturday afternon - 
+2. Monday night ----> 8 - 10 pm
